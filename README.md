@@ -5,3 +5,8 @@ Create a single program with the observer and decorator program used to accompli
 
 **Problem Domain:**  
 Sunblock Factory
+
+**Important Scripts:**  
+[SunblockStore.java](https://github.com/Potaten2015/CPSC-60000-002-Lab-1/blob/main/src/ood/lab1/sunblockfactory/SunblockStore.java) runs decorators  
+[Lab1Run.java](https://github.com/Potaten2015/CPSC-60000-002-Lab-1/blob/main/src/ood/lab1/sunblockfactory/Lab1Run.java) runs subject oberver code  
+[Lab1Tests.java](https://github.com/Potaten2015/CPSC-60000-002-Lab-1/blob/main/src/ood/lab1/sunblockfactory/Lab1Tests.java) junit tests for SunblockStore and decorators
